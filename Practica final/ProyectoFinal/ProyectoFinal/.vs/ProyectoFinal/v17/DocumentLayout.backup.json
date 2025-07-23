@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\controllers\\terapeutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\terapeutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\models\\spadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\spadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\yisel ramirez\\desktop\\trabajosdelaufhec\\marcos\\proyectofinal\\proyectofinal\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630466D6-03F6-4009-833B-6D5DD6D52C72}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T21:13:13.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:55:15.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerapeutasController.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\TerapeutasController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\TerapeutasController.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\TerapeutasController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\TerapeutasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:57:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:56:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:55:59.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Web.config",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Web.config",
+              "RelativeToolTip": "ProyectoFinal\\Web.config",
+              "ViewState": "AgIAADgAAAAAAAAAAAApwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-22T13:05:21.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\Cita.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:41:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\SpaDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\SpaDbContext.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\SpaDbContext.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\SpaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:03:14.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Yisel Ramirez\\Desktop\\TrabajosDelaUFHEC\\Marcos\\ProyectoFinal\\ProyectoFinal\\Models\\Paciente.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:14:01.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
